@@ -1,6 +1,6 @@
 # my-pizza-house.
 This is my-pizza-house project created with react js.
-Project is Hosted on heroku.
+Project is Hosted on netlify.
 Click:[mypizzahouse.netlify.app] to view my project in your browser
 # Getting Started with Create React App
 
